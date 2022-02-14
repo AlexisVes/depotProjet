@@ -37,8 +37,6 @@ public class AccueilServlet extends HttpServlet {
 		doGet(request, response);
 	}
 	
-	protect void doSieste {
-		
-	}
+	
 
 }
